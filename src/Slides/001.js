@@ -25,7 +25,28 @@ const slide = () => (
       </Step>
       <Step index={2}>
         <li>
-          I <HeartIcon className='fa fa-heart' /> Open Source <a href='https://github.com/mike3run' target='_blank'>https://github.com/mike3run</a>
+          Frontend Nerd (Charlemos!)
+        </li>
+      </Step>
+      <Step index={3}>
+        <li>
+          I <HeartIcon className='fa fa-heart' /> Open Source 
+          <a href='https://github.com/mike3run' target='_blank'>https://github.com/mike3run</a>
+        </li>
+      </Step>
+      <Step index={4}>
+        <li>
+          <a href='https://github.com/mike3run/ground-zero'>Ground-Zero</a>
+        </li>
+      </Step>
+      <Step index={5}>
+        <li>
+          <a href='https://github.com/Pixel2HTML/wp-nextjs'>wp-nextjs</a>
+        </li>
+      </Step>
+      <Step index={6}>
+        <li>
+          <a href='https://github.com/mike3run/manila-mixins'>Manila Mixins</a>
         </li>
       </Step>
     </ul>
