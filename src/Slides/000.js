@@ -24,16 +24,16 @@ const slide = () => (
   <TitleSlide>
     <h1>{slide.title}</h1>
     <h2>
-      <a href='https://www.github.com/bvaughn/connect-tech-2016'>github.com/bvaughn/connect-tech-2016</a>
+      <a href='https://github.com/mike3run/react-talk'>https://github.com/mike3run/react-talk</a>
     </h2>
     <Container>
-      <Icon className='fa fa-github' /> <a href='https://www.github.com/bvaughn'>@bvaughn</a>
+      <Icon className='fa fa-github' /> <a href='https://www.github.com/mike3run'>@mike3run</a>
       <Spacer />
-      <Icon className='fa fa-twitter' /> <a href='https://www.twitter.com/brian_d_vaughn'>@brian_d_vaughn</a>
+      <Icon className='fa fa-twitter' /> <a href='https://www.twitter.com/mpalau'>@mpalau</a>
     </Container>
   </TitleSlide>
 );
 
-slide.title = 'Creating more efficient React views with windowing'
+slide.title = 'Escalando React'
 
 export default slide;
