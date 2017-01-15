@@ -1,0 +1,6 @@
+name: react-talk
+root: ~/git/react-talk
+
+windows:
+  - editor: nvim
+  - server: yarn start
