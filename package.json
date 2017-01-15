@@ -1,12 +1,12 @@
 {
-  "name": "connect-tech-2016",
-  "version": "0.0.1",
+  "name": "react-talk",
+  "version": "1.0.0",
   "private": true,
   "devDependencies": {
     "react-addons-shallow-compare": "^15.3.2",
     "react-scripts": "0.6.1"
   },
-  "homepage": "https://bvaughn.github.io/connect-tech-2016/",
+  "homepage": "https://mike3run.github.io/react-talk/",
   "dependencies": {
     "classnames": "^2.2.5",
     "codemirror": "^5.19.0",
